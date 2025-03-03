@@ -79,7 +79,7 @@ const Testomoniyal = () => {
   ];
 
   return (
-    <div className="container mx-auto mb-[130px]">
+    <div className="container mx-auto mb-[100px]">
       {/* Title */}
       <div className="mx-auto text-center w-[300px] md:w-[500px] lg:w-[900px]">
         <h2 className="font-semibold text-[40px] text-[#0A0808] mb-[20px]">
