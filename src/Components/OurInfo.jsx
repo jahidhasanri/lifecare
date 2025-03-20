@@ -4,7 +4,8 @@ import { FaPhoneVolume } from "react-icons/fa";
 import { IoTimeOutline } from "react-icons/io5";
 const OurInfo = () => {
   return (
-    <div className="container mx-auto grid md:grid-cols-2 lg:grid-cols-3 mb-[130px]">
+    <div className="container mx-auto ">
+    <div className=" grid md:grid-cols-2 lg:grid-cols-3 mb-[130px] lg:ml-[150px]">
       <div className=" bg-[#07332F] w-[364px] h-[202px] rounded-xl mb-2">
         <div className="flex gap-5 w-[279px] ml-[50px] mt-[50px]  ">
         <div>
@@ -42,6 +43,8 @@ const OurInfo = () => {
         </div>
         </div>
       </div>
+    </div>
+
     </div>
   );
 };

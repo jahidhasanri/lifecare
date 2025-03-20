@@ -43,7 +43,7 @@ const Blog = () => {
     ];
       
     return (
-       <div className='pb-[300px]'>
+       <div className='pb-[100px]'>
         <h2 className='text-center font-bold text-2xl mb-6'>Our Blog</h2>
          <div className="container mx-auto md:grid md:grid-cols-2 gap-6 h-[900px] ">
             {/* Banner Image */}
